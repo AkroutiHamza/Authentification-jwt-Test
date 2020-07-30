@@ -77,7 +77,7 @@ if(user)
    
 }
 }); 
-router.get('/profile', isLoggedIn, function(req, res){
+router.get('/profile', function(req, res){
     res.render('profile.ejs', {
      email:req.email
     });
