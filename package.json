@@ -14,7 +14,7 @@
     "body-parser": "^1.18.3",
     "dotenv": "^8.2.0",
     "ejs": "^3.0.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.4.19",
     "nodemon": "^2.0.2"
